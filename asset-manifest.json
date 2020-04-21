@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/skop/static/css/main.5f361e03.chunk.css",
+    "main.js": "/skop/static/js/main.17102e57.chunk.js",
+    "main.js.map": "/skop/static/js/main.17102e57.chunk.js.map",
+    "runtime-main.js": "/skop/static/js/runtime-main.271008e8.js",
+    "runtime-main.js.map": "/skop/static/js/runtime-main.271008e8.js.map",
+    "static/js/2.eb5613ea.chunk.js": "/skop/static/js/2.eb5613ea.chunk.js",
+    "static/js/2.eb5613ea.chunk.js.map": "/skop/static/js/2.eb5613ea.chunk.js.map",
+    "index.html": "/skop/index.html",
+    "precache-manifest.ba12e5a03c87bf54a1f13c9981b8cca7.js": "/skop/precache-manifest.ba12e5a03c87bf54a1f13c9981b8cca7.js",
+    "service-worker.js": "/skop/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/skop/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.eb5613ea.chunk.js.LICENSE.txt": "/skop/static/js/2.eb5613ea.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/skop/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.271008e8.js",
+    "static/js/2.eb5613ea.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.17102e57.chunk.js"
+  ]
+}
